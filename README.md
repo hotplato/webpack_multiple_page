@@ -24,11 +24,21 @@ npm start
 
 ```
 
-
 ### 编辑文件
 
 开发环境中，webpack-dev-server会监听`src`文件夹的变化，自动刷新浏览
 
+### 编译
+
+```bash
+yarn build
+
+# or
+
+npm run build
+
+```
+生成`dist`文件夹
 
 ## TODO
 
