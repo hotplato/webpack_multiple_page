@@ -33,7 +33,6 @@ npm start
 ## TODO
 
 - [x] 热更新
-- [x] bable
+- [x] babel
 - [x] scss
-
 
