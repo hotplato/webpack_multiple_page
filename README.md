@@ -8,7 +8,7 @@
 ```bash
 yarn
 
-or or
+# or
 
 npm install
 ```
